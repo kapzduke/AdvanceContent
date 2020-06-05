@@ -13,5 +13,6 @@
 		{ "item": "lanthanum", "amount": 10 }
 	],
 	"category": "effect",
+  "research": "illuminator",
 	"buildVisibility": "lightingOnly"
 }
